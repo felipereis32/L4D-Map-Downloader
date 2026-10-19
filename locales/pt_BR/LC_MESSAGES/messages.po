@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Escolha o idioma:"
+msgstr "Escolha o idioma:"
+
+msgid "Cancelar"
+msgstr "Cancelar"
+
+msgid "Opção: "
+msgstr "Opção: "
+
+msgid "Opção inválida."
+msgstr "Opção inválida."
+
+msgid "Idioma selecionado: "
+msgstr "Idioma selecionado: "
+
+msgid "Não foi possível carregar o idioma escolhido."
+msgstr "Não foi possível carregar o idioma escolhido."
+
+msgid "L4D Map Downloader"
+msgstr "L4D Map Downloader"
+
+msgid "Left 4 Dead 1 encontrado pela Steam."
+msgstr "Left 4 Dead 1 encontrado pela Steam."
+
+msgid "Localização: "
+msgstr "Localização: "
+
+msgid "Não foi possível localizar o jogo pela Steam."
+msgstr "Não foi possível localizar o jogo pela Steam."
+
+msgid "Informe a pasta que contém left4dead.exe."
+msgstr "Informe a pasta que contém left4dead.exe."
+
+msgid "Caminho do jogo (ou 0 para sair): "
+msgstr "Caminho do jogo (ou 0 para sair): "
+
+msgid "Executável encontrado."
+msgstr "Executável encontrado."
+
+msgid "Caminho inválido. Verifique se a pasta contém left4dead.exe."
+msgstr "Caminho inválido. Verifique se a pasta contém left4dead.exe."
+
+msgid "Pasta addons não encontrada:"
+msgstr "Pasta addons não encontrada:"
+
+msgid "Deseja criá-la? (s/n): "
+msgstr "Deseja criá-la? (s/n): "
+
+msgid "Não foi possível criar a pasta:"
+msgstr "Não foi possível criar a pasta:"
+
+msgid "Pasta addons:"
+msgstr "Pasta addons:"
+
+msgid "Conteúdo:"
+msgstr "Conteúdo:"
+
+msgid " (pasta vazia)"
+msgstr " (pasta vazia)"
+
+msgid "Digite o nome do mapa: "
+msgstr "Digite o nome do mapa: "
+
+msgid "Digite um nome para pesquisar."
+msgstr "Digite um nome para pesquisar."
+
+msgid "Pesquisando no GameMaps..."
+msgstr "Pesquisando no GameMaps..."
+
+msgid "Nenhum resultado encontrado."
+msgstr "Nenhum resultado encontrado."
+
+msgid "Resultados:"
+msgstr "Resultados:"
+
+msgid "Página:"
+msgstr "Página:"
+
+msgid "Tipo:"
+msgstr "Tipo:"
+
+msgid "Campanha"
+msgstr "Campanha"
+
+msgid "Digite o número do mapa que deseja baixar: "
+msgstr "Digite o número do mapa que deseja baixar: "
+
+msgid "Voltar"
+msgstr "Voltar"
+
+msgid "Opção inválida. Escolha um número da lista ou 0."
+msgstr "Opção inválida. Escolha um número da lista ou 0."
+
+msgid "Campanha selecionada:"
+msgstr "Campanha selecionada:"
+
+msgid "Deseja tentar baixar e instalar esta campanha? (s/n): "
+msgstr "Deseja tentar baixar e instalar esta campanha? (s/n): "
+
+msgid "Localizando o link de download no GameMaps..."
+msgstr "Localizando o link de download no GameMaps..."
+
+msgid "Não foi possível localizar automaticamente o link direto do arquivo."
+msgstr "Não foi possível localizar automaticamente o link direto do arquivo."
+
+msgid "O site pode exigir login, JavaScript ou uma etapa intermediária. Confira a página da campanha."
+msgstr "O site pode exigir login, JavaScript ou uma etapa intermediária. Confira a página da campanha."
+
+msgid "Link de download localizado."
+msgstr "Link de download localizado."
+
+msgid "Verificando conexão com o GameMaps..."
+msgstr "Verificando conexão com o GameMaps..."
+
+msgid "Falha de conexão com o GameMaps."
+msgstr "Falha de conexão com o GameMaps."
+
+msgid "Conexão com o GameMaps estabelecida."
+msgstr "Conexão com o GameMaps estabelecida."
+
+msgid "Buscar e baixar mapas"
+msgstr "Buscar e baixar mapas"
+
+msgid "Mostrar conteúdo da pasta addons"
+msgstr "Mostrar conteúdo da pasta addons"
+
+msgid "Mudar idioma"
+msgstr "Mudar idioma"
+
+msgid "Sair"
+msgstr "Sair"
+
+msgid "Encerrando o programa."
+msgstr "Encerrando o programa."
+
+msgid "Não é possível continuar sem o jogo."
+msgstr "Não é possível continuar sem o jogo."
+
+msgid "Pressione 0 (sem Enter) para cancelar a pesquisa."
+msgstr "Pressione 0 (sem Enter) para cancelar a pesquisa."
+
+msgid "[AVISO] Falha na página {numero}: {erro}"
+msgstr "[AVISO] Falha na página {numero}: {erro}"
+
+msgid "[PARADA] Três páginas consecutivas falharam."
+msgstr "[PARADA] Três páginas consecutivas falharam."
+
+msgid "[FIM] A listagem terminou na página {numero}."
+msgstr "[FIM] A listagem terminou na página {numero}."
+
+msgid "[FIM] Conteúdo repetido na página {numero}."
+msgstr "[FIM] Conteúdo repetido na página {numero}."
+
+msgid "\rPesquisando: página {numero} | {quantidade} resultado(s)..."
+msgstr "\rPesquisando: página {numero} | {quantidade} resultado(s)..."
+
+msgid "[CANCELADO] Pesquisa interrompida pelo usuário."
+msgstr "[CANCELADO] Pesquisa interrompida pelo usuário."
+
+msgid "[INFO] Limite de segurança: {limite} páginas."
+msgstr "[INFO] Limite de segurança: {limite} páginas."
+
+msgid "[ERRO] Falha de conexão com o GameMaps: {erro}"
+msgstr "[ERRO] Falha de conexão com o GameMaps: {erro}"
+
+msgid " [ERRO] URL de campanha inválida."
+msgstr " [ERRO] URL de campanha inválida."
+
+msgid "[ERRO] Redirecionamento de download não recebido. Status HTTP: {status}"
+msgstr "[ERRO] Redirecionamento de download não recebido. Status HTTP: {status}"
+
+msgid "[ERRO] Falha ao obter o link: {erro}"
+msgstr "[ERRO] Falha ao obter o link: {erro}"
+
+msgid "[ERRO] O servidor retornou HTML, não um arquivo de download. Talvez seja necessário concluir uma etapa no GameMaps."
+msgstr "[ERRO] O servidor retornou HTML, não um arquivo de download. Talvez seja necessário concluir uma etapa no GameMaps."
+
+msgid "\rBaixando: {percentual}% ({baixado} / {total})"
+msgstr "\rBaixando: {percentual}% ({baixado} / {total})"
+
+msgid "\rBaixando: {baixado}"
+msgstr "\rBaixando: {baixado}"
+
+msgid " [ERRO] O arquivo baixado está vazio."
+msgstr " [ERRO] O arquivo baixado está vazio."
+
+msgid "[OK] Download concluído: {arquivo}"
+msgstr "[OK] Download concluído: {arquivo}"
+
+msgid "\n[ERRO] Falha no download: {erro}"
+msgstr "\n[ERRO] Falha no download: {erro}"
+
+msgid "\n[ERRO] Não foi possível salvar o arquivo: {erro}"
+msgstr "\n[ERRO] Não foi possível salvar o arquivo: {erro}"
+
+msgid "[AVISO] Arquivo já existe; mantido sem alteração: {alvo}"
+msgstr "[AVISO] Arquivo já existe; mantido sem alteração: {alvo}"
+
+msgid "[AVISO] Não foi possível copiar {item}: {erro}"
+msgstr "[AVISO] Não foi possível copiar {item}: {erro}"
+
+msgid "[ERRO] WinRAR não encontrado. Verifique se ele está em C:\\Program Files\\WinRAR\\WinRAR.exe"
+msgstr "[ERRO] WinRAR não encontrado. Verifique se ele está em C:\\Program Files\\WinRAR\\WinRAR.exe"
+
+msgid "[ERRO] O WinRAR não conseguiu extrair o arquivo."
+msgstr "[ERRO] O WinRAR não conseguiu extrair o arquivo."
+
+msgid "[ERRO] O arquivo compactado não contém arquivos extraídos."
+msgstr "[ERRO] O arquivo compactado não contém arquivos extraídos."
+
+msgid "[AVISO] Nenhum arquivo novo foi instalado. Talvez os arquivos já existam em addons."
+msgstr "[AVISO] Nenhum arquivo novo foi instalado. Talvez os arquivos já existam em addons."
+
+msgid "[OK] Extração concluída. Arquivos instalados: {copiados}"
+msgstr "[OK] Extração concluída. Arquivos instalados: {copiados}"
+
+msgid "[ERRO] A extração demorou mais de 10 minutos e foi interrompida."
+msgstr "[ERRO] A extração demorou mais de 10 minutos e foi interrompida."
+
+msgid "[ERRO] Falha ao extrair ou instalar: {erro}"
+msgstr "[ERRO] Falha ao extrair ou instalar: {erro}"
+
+msgid "[AVISO] O arquivo já existe e foi preservado: {nome}"
+msgstr "[AVISO] O arquivo já existe e foi preservado: {nome}"
+
+msgid "[OK] VPK instalado em: {destino}"
+msgstr "[OK] VPK instalado em: {destino}"
+
+msgid "[ERRO] Não foi possível instalar o VPK: {erro}"
+msgstr "[ERRO] Não foi possível instalar o VPK: {erro}"
+
+msgid "[OK] Campanha processada: {nome}"
+msgstr "[OK] Campanha processada: {nome}"
+
+msgid "[AVISO] O download foi mantido em {arquivo}, mas a instalação não foi concluída."
+msgstr "[AVISO] O download foi mantido em {arquivo}, mas a instalação não foi concluída."
